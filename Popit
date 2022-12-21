@@ -1,0 +1,1 @@
+local Tab = Window:NewTab("Credits")                                                local Section = Tab:NewSection("buy items")
